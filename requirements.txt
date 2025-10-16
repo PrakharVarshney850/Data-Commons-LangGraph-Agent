@@ -1,0 +1,19 @@
+# LangGraph and LangChain dependencies
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-core>=0.3.0
+
+# HTTP client for MCP communication
+httpx>=0.28.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# JSON handling
+pydantic>=2.10.0
+
+# Frontend dependencies (Streamlit)
+streamlit>=1.32.0
+plotly>=5.18.0
+pandas>=2.0.0
