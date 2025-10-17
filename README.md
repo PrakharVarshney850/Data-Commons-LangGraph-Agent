@@ -96,7 +96,7 @@ The agent automatically:
 - **[QUICK_START.md](QUICK_START.md)** - Get running in 30 seconds
 - **[README_FRONTEND.md](README_FRONTEND.md)** - Complete Streamlit guide
 - **[PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)** - Full project overview
-- **[AGENT_CODE_EXPLANATION.md](AGENT_CODE_EXPLANATION.md)** - Line-by-line code explanation
+
 
 ## 📁 Project Structure
 
